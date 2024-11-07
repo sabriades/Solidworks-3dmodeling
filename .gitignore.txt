@@ -1,0 +1,32 @@
+# Ignora i file di SolidWorks temporanei e di backup
+*.bak
+*.swp
+*.tmp
+*~
+*.sld~
+
+# Ignora i file generati da SolidWorks
+*.swb
+
+# Ignora file di configurazione generati da SolidWorks o editor di testo
+*.user
+*.vs
+
+# Aggiungi esclusioni generali per i file generati da Windows
+Thumbs.db
+ehthumbs.db
+
+# Ignora file di sistema di macOS (anche se non sono strettamente necessari su Windows)
+.DS_Store
+
+# Ignora file di log generati dal sistema
+*.log
+
+# Ignora file temporanei di editor di testo
+*.swp
+*.bak
+
+
+*.sldprt
+*.sldasm
+*.slddrw
