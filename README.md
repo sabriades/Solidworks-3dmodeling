@@ -1,9 +1,18 @@
+# SolidWorks Exercises - 3D Modeling
 
-# Solidworks-3dmodeling
+Collection of simple **SolidWorks** models created in 2024 while reviewing material from the *Geometric Modeling & Virtual Prototyping* exam.  
+These are not the original exam files, but quick recreations used to refresh previously developed models and reinforce concepts.
 
-In this repository, I am uploading simple 3D models that I have created to solve exercises for my upcoming exam. I am recreating exercises I previously completed from scratch as a practical revision method. I am happy to share these 3D models, and I hope they can be helpful to others.
+---
 
-Feel free to contact me at the following email address: 
-sabrinaanna.desiderio@gmail.com
+## Tech Stack
+- **CAD software:** SolidWorks
 
+---
 
+## Main Features
+- Basic 3D part modeling
+- Simple geometry reconstruction
+- Practice of exam-related workflows
+
+*Project created for learning and portfolio purposes.*
